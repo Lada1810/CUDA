@@ -53,7 +53,7 @@ __global__ void GPU_realization(int* gpu_value)
                 //printf("%d ,", i);
                 Numbers[i-2] = i;
                 printf("%d, ", Numbers[i - 2]);
-                if (a / i == 1) { Numbers[i] = i; printf("%d ", Numbers[i - 2]); }
+                if (a / i == 1) { Numbers[i-2] = i; printf("%d ", Numbers[i - 2]); }
             } while (a / i != 1 && a % i == 0);
         }
     }
