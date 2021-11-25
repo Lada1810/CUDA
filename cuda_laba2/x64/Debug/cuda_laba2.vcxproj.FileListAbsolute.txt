@@ -1,0 +1,1 @@
+C:\Maga\CUDA\CudaProject\cuda_laba2\x64\Debug\cuda_laba2.exe
