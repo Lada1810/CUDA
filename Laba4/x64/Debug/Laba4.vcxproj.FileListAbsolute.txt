@@ -1,0 +1,2 @@
+C:\Maga\CUDA\CudaProject\Laba4\x64\Debug\Laba4.exe
+C:\Maga\CUDA\Git\CUDA\Laba4\x64\Debug\Laba4.exe
